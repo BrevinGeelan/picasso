@@ -1,1 +1,1 @@
-# picasso
+My picasso project.. still gonna mess around with the circles and finish media queries... ran into a bunch of issues there.
